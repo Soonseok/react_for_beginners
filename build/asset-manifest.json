@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react_clone_coding/static/js/main.d81c0946.js",
-    "index.html": "/react_clone_coding/index.html",
-    "main.d81c0946.js.map": "/react_clone_coding/static/js/main.d81c0946.js.map"
+    "main.js": "/react_for_beginners/static/js/main.129b6ef1.js",
+    "index.html": "/react_for_beginners/index.html",
+    "main.129b6ef1.js.map": "/react_for_beginners/static/js/main.129b6ef1.js.map"
   },
   "entrypoints": [
-    "static/js/main.d81c0946.js"
+    "static/js/main.129b6ef1.js"
   ]
 }
